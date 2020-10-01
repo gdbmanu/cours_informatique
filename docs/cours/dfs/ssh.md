@@ -15,11 +15,10 @@ authors:
 L’étape numéro 1 est d’avoir la bonne console. Moi, j’utilise Ubuntu (WSL 2).
 
 L’étape numéro 2 est d’avoir un agent ssh, c’est le maître des clefs. 
-Vous trouverez toutes les informations necessaires pour installer WSL2 et l’agent sous windows ici : [installation_W10](https://francoisbrucker.github.io/cours_informatique/cours/dfs/installation_W10.html)
+Vous trouverez toutes les informations necessaires pour installer WSL2 et l’agent sous windows ici : 
+[installation_W10](https://francoisbrucker.github.io/cours_informatique/cours/dfs/installation_W10.html)
 
 Si vous utilisez linux ou mac tout est déjà là (normalement)
-
-Comparer les OS expliquer ce qu’est l’agent
 
 ### Vérifiez que ça fonctionne
 Ouvrez une fenêtre powershell et, en remplaçant login par votre login unix de l’école tapez la commande : `ssh-add -l`
